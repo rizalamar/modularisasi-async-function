@@ -1,2 +1,2 @@
-# modularisasi-async-function
-Created with CodeSandbox
+# Modularisasi Async Function
+Contoh modularisasi pemanggilan API dengan async/await menggunakan JSONPlaceholder.
